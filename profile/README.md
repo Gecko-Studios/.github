@@ -1,3 +1,3 @@
 # Hi There 👋
 
-Stuff coming soon!
+This project is dead :(
